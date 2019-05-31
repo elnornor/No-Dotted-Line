@@ -5,3 +5,4 @@ SVG images are designed for layering & remixing. (In Inkscape & SHIFT + CTRL + G
 Some text suggestions are provided as captions for the images.
 
 
+![sample page](pageSpreads/page1.svg)
