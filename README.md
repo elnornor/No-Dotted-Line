@@ -11,4 +11,4 @@ Please submit pull request to pageSpreads folder. Images should be in portrait f
 Click on a body shape then SHIFT + CTRL + G to ungroup it, and edit each limb separately.
 To create a negative space shapes for layering, put one path on top of another, select both, then Path > Difference will punch a hole in one which has the shape of the other.
 
-![sample page](pageSpreads/page5.svg)
+![sample page](pageSpreads/page06.svg)
