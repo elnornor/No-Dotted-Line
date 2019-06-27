@@ -2,6 +2,11 @@ NO DOTTED LINE
 Finding the words to talk about consent: text suggestions 
 =========================================================
 
+INTRODUCTION
+- about the project
+- how you can contribute
+- credits
+
 ASKING
 
 Would you like...?
