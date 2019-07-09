@@ -28,7 +28,7 @@ If you think that the project is missing a category or any kind of content, feel
 Your contributions will be licensed in a Creative Commons BYSA license, which gives you credit to your work, but at the same time permits other people to contribute to the project as well without asking for permission all the time.
 Once the above text is finalized it could be added to the readme file of the project.
 
-###Localization
+### Localization
 If you are interested to translate the book in your language you can have a look at this folder with all the texts available: collectionsToDownload/texts
 
 Once you have translated the texts in your language (many thanks btw), please open an issue here https://github.com/elnornor/No-Dotted-Line/issues and we will publish it.
