@@ -1,12 +1,14 @@
 # No-Dotted-Line
-Files for making an illustrated book on healthy consent.
+Images for making an illustrated book on healthy consent.
 
-These SVG illustrations are designed for layering & remixing. 
-Some text suggestions are provided in the 'collections to download' folder as captions for the images. See below for further ideas on how you cn play with the images and contribute your own.
+NO DOTTED LINE is a remixable sex ed book about healthy consent. It's made of lavish illustrations, created with libre graphics software, and every visual element is available for remixing and re-use. In good consent there is no "dotted line", no final deal - all is provisional; iterations are welcome as desires shift. This illustrated book likewise has no final version, and evolves with the instincts of its reader-writers. The project demonstrates a libre workflow in all senses of the word - promiscuous, consensual design created with free software and released for re-use. http://eleanorg.org/no-dotted-line
 
 ![sample page](pageSpreads/images-Landscape/landscape01.svg)
 
 ## Suggestions for playing with the images 
+These SVG illustrations are designed for layering & remixing. 
+Some text suggestions are provided in the 'collections to download' folder as captions for the images. See below for further ideas on how you cn play with the images and contribute your own.
+
 If you know how to use a vector graphics editor you could improve or add new graphics to the project. Would be nice if you are using a free libre open source software like Inkscape. It is cross platform software, meaning that it and you can install it to a computer that is using Windows, GNU/Linux or Mac operating systems. download it here: inkscape.org.
 
 Some body shapes are a single path, others are made of a group of paths with different colours. To change colours of grouped paths in Inkscape, click on a body shape then SHIFT + CTRL + G to ungroup it, and edit each colour separately.
